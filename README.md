@@ -49,7 +49,7 @@ Before running the code, please ensure you have prepared the original train/test
 **Column Details:**
 
 1.  **Image Path**: Path to the preprocessed image file (e.g., `.npy` or image format).
-2.  **Label**: Classification label (e.g., 0 for Benign, 1 for Malignant).
+2.  **Label**: Classification label (e.g., 0 for Benign, 1 for Unsure, 2 for Malignant).
 3.  **Attributes**: The following 8 columns are raw clinical attribute scores (not normalized):
       * Subtlety
       * Internal structure
