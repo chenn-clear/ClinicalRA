@@ -1,11 +1,10 @@
-<<<<<<< HEAD
 
 
 -----
 
 # Clinical Data-Driven Retrieval-Augmented Model for Lung Nodule Malignancy Prediction
 
-This repository contains the implementation code for the MICCAI 2025 paper: **Clinical Data-Driven Retrieval-Augmented Model for Lung Nodule Malignancy Prediction**.
+This repository contains the implementation code for the Miccai 2025 paper: **Clinical Data-Driven Retrieval-Augmented Model for Lung Nodule Malignancy Prediction**.
 
 ## 1\. Data Preparation
 
@@ -101,10 +100,3 @@ This repository is built upon **MMPretrain** (formerly MMClassification). We tha
 -----
 
 **We will continuously improve and update this repository.**
-=======
-# ClinicalRA
-
-This repository provides the official implementation of **Clinical Data-Driven Retrieval-Augmented Model for Lung Nodule Malignancy Prediction**, which is *provisionally accepted* at **MICCAI 2025**.
-
-🚧 **Code will be coming soon.** Stay tuned!
->>>>>>> 6042103b93ddadbd2f25a9b33d2856a07f608eef
