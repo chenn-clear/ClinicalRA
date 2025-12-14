@@ -4,7 +4,7 @@
 
 # Clinical Data-Driven Retrieval-Augmented Model for Lung Nodule Malignancy Prediction
 
-This repository contains the implementation code for the Miccai 2025 paper: **Clinical Data-Driven Retrieval-Augmented Model for Lung Nodule Malignancy Prediction**.
+This repository contains the implementation code for the MICCAI 2025 paper: **Clinical Data-Driven Retrieval-Augmented Model for Lung Nodule Malignancy Prediction**.
 
 ## 1\. Data Preparation
 
