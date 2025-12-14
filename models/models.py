@@ -357,7 +357,7 @@ class ClinicalDataEnrichedResnetBackbone(BaseBackbone):
                  attr_dim=8,
                  input_channels=32,        # Added: matches the 32 axial slices
                  fix: bool = False,        # When True, load from checkpoint and freeze params
-                 proj: bool = False,
+                 proj: bool = True,
                  init_cfg=None,
                  checkpoint_path=None,
                  # Following params kept for interface compatibility; may not be used by ModifiedResNet18
@@ -466,7 +466,7 @@ class RetrievalAugmentedProjectionNeck(nn.Module):
                  num_heads=8,
                  dropout=0.3,
                  fix=True,
-                 proj=False,
+                 proj=True,
                  checkpoint_path=None,
                  # Keep legacy parameter interface to avoid errors, even if unused downstream
                  arch='resnet18',
