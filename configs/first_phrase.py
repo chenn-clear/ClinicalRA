@@ -17,8 +17,6 @@ TEXTS = [
 model = dict(
     type='RetrievalAugmentedClinicalDataEnrichedImageClassifier',
     backbone=dict(type='ClinicalDataEnrichedResnetBackbone', checkpoint_path = None),
-    neck=dict(
-        type='RetrievalAugmentedProjectionNeck', checkpoint_path='Path of your 1st phrase pretrained model'),
     head=dict(
         type='TextEmbeddingHead',
         texts=TEXTS,
