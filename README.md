@@ -24,7 +24,7 @@ Please refer to the official `pylidc` documentation to parse DICOM data, perform
 
 ## 2\. Split Files Format
 
-Before running the code, please ensure you have prepared the original train/test split files. The files should be in `.txt` format, where each line represents a sample.
+Before running the code, please ensure you have prepared the train/test split files. The files should be in `.txt` format, where each line represents a sample.
 
 **Format Specifications:**
 
