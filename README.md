@@ -93,9 +93,9 @@ PYTHONPATH=.:$PYTHONPATH mim train mmcls <path_to_config_file.py>
 
 ## 5\. Acknowledgements
 
-This repository is built upon **MMPretrain** (formerly MMClassification). We thank the OpenMMLab team for their open-source contribution.
+This repository is built upon **MMCV** (MMClassification). We thank the OpenMMLab team for their open-source contribution.
 
-  * **MMPretrain:** [https://github.com/open-mmlab/mmpretrain](https://github.com/open-mmlab/mmpretrain)
+* **MMCV:** [https://github.com/open-mmlab/mmcv](https://github.com/open-mmlab/mmcv)
 
 -----
 
